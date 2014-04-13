@@ -1,4 +1,4 @@
-# LOSStdLibs #
+# LOS-StdLibs #
 **Repositório de bibliotecas padrão de sistema do Projeto LOS**
 
 Este repositório será usado para a implementação das bibliotecas padrão de sistema do Projeto LOS.
